@@ -1,0 +1,12 @@
+{
+    "current_version": 6,
+    "dependencies": "clearblade,http",
+    "logging_enabled": "false",
+    "name": "FetchS3Object",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "FetchS3Object.js"
+}
